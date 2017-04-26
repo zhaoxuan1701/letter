@@ -1,0 +1,2 @@
+(function(){if(typeof wumiiRetargetUrl!="undefined"){var a,b=document;a=typeof wumiiDebugServer!="undefined"?wumiiDebugServer:b.location.protocol=="https:"?"https://www.wumii.com":"http://app.wumii.com";var c=b.createElement("script");c.async="async";c.type="text/javascript";var d=a+"/ext/retarget/record?retargetUrl="+encodeURIComponent(wumiiRetargetUrl)+"&viewedUrl="+encodeURIComponent(location.href);typeof wumiiRetargetConverted!="undefined"&&wumiiRetargetConverted!=""&&(d+="&converted="+wumiiRetargetConverted);
+c.src=d;b.body.appendChild(c)};})();
