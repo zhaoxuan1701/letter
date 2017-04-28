@@ -220,7 +220,7 @@ player.prototype.left=function(){
 				width: 20,
 				height: 20,
 				bgColor: "white",
-				highLightColor: "#aaa"
+				highLightColor: "pink"
 			},
 			41,
 			69,			
@@ -234,10 +234,3 @@ player.prototype.left=function(){
 	}
 	
 
-//<script type="text/javascript">
-//	window.onload=function(){
-//		//let m = new Map("mapId",200,10,400,600,"image/bg.jpg");	
-//		//player(boxId, width, heigth, imgs, speed, btn,a1width,a1height,fontZisi,a1top)
-//		let Lunbo=new (lunbotu,100%,360px,["img/lun1.jpg","img/lun2.jpg","img/lun3.jpg","img/lun4.jpg","img/lun5.jpg","img/lun6.jpg"],3000,)
-//	}
-//</script>
